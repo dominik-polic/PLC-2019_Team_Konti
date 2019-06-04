@@ -54,3 +54,5 @@ This project was created by 3 students:
  - Dominik Polić (FER)
  - Filip Katulić (FER)
  - Domagoj Jurendić (FSB)
+ 
+ **This project can be used for educational purposes, but is not to be used for comercial purposes without written permission from its creators!**
