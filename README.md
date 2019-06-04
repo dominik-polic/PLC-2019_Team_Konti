@@ -4,7 +4,17 @@ This is a source code of Team Konti's project solution for regional level of SIM
 Project was created using Siemens TIA Portal v15.1 and WinCC Advanced, also using the Multiuser server for colaboration.
 You can find the description and manual with some photos in the "docs" folder.
 
+## Software required to open this project
 
+To open this project on your device, you must have the following software installed on your PC:
+ - Siemens TIA Portal v15.1 or newer
+ - Siemens WinCC Advanced v15.1 or newer
+
+We also used, but is not required:
+ - TIA Multiuser server 
+ 
+ You can use the trial versions of the listed software without limitations, but they expire after about a month.
+ 
 
 
 ### This is the example of the main screen:
