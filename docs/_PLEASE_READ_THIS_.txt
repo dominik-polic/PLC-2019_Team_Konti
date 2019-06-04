@@ -1,0 +1,7 @@
+Please copy the supplied .pdf files to your C:\ drive or else they will not display properly in our HMI. 
+Everything else will work, but you won't be able to open manuals from HMI.
+
+We also recommend that you skip through the suplied manual before evaluating our solution to get a basic 
+understaning of how it works and avoid any possible confusion.
+
+Thank you, Team Konti

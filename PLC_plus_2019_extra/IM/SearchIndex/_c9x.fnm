@@ -1,0 +1,18 @@
+þÿÿÿÈ###id###VisulizationRootBrowsableId###TargetIdNameDisplayName-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIds###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreCommentDatatypeValue###SearchFilterIdsTitleLanguageVersionConstant nameEvent class###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleLADFBD CodeSCL CodeInstance DBAddressText.0Text.1Text.2
+AlarmClassAcknowledgementModelIdEmailAddressAcknowledgedText
+ComingText	GoingTextAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
+ServerName
+PortNumberWindowsDomain	CycleUnit	CycleTimeNumber	ShortName
+LogoutTimeDataType	BackColor	GridColor
+LineColor1
+LineColor2OperatableAreaColor
+VisibilityBackFillStyleBorderBackColorBorderColor	EdgeStyleFlashingFont	ForeColorHorizontalAlignmentTextTextOrientationVerticalAlignmentCommonAlarmClassStationNamePartnerNameNodeNameAboveUpperLimitColorBelowLowerLimitColor
+DataFormatFormatPatternModeUnitPropertyNameTagValueForPropertyTagPageTagAddressPanelInfoAddressAccessModeAcquisitionTriggerModeAcquisitionCycleConfirmationTypeCoding
+ConnectionPlcNameControllerTagLimitHighConstantLimitHighLowConstantLimitLowHighConstantLimitLowConstant	JobNumber
+StartValueUITypeEditorBitPositionUITypeEditorTagExpressionRangeFromToAdaptPicture
+AutoSizingPictureTransparentColorAlarmSourceButtonBackColorButtonBackFillStyleButtonBarStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
+FilterText
+FocusColorGridlineColorLayerSelectionBackColorSelectionForeColorSortByTimeDirectionTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorViewTypeProcessValueFirstGradientColorHorizontalPictureAlignmentMiddleGradientColorPictureAutoSizingSecondGradientColorTextOffTextOnVerticalPictureAlignment	FunctionsUITypeEditorStartvalueUITypeEditorEndvalueAlarmLowerLimitColorAlarmUpperLimitColorBarBackColorBarEdgeStyleBarOrientation
+ScaleColorScalePositionSegmentColoringWarningLowerLimitColorWarningUpperLimitColorFileNameAuthorizationAcknowledgementBitAddressAcknowledgementTag	AlarmTextInfoTextPlcAcknowledgementBitAddressTriggerBitAddress
+TriggerTag)StructureMemberTag_AcquisitionTriggerModeMasterCommentPreCodeHeaderCodeFooterEvenRowBackColorSelectBackColorSelectForeColorTextListJobEventColor	FillStyleLineEndShapeStyle
+StartStyleStyleEndStyle
